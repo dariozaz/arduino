@@ -1,4 +1,4 @@
 # arduino
 Codigo de Arduino IDE
 
-https://dariozaz.github.io/PWA/
+https://dariozaz.github.io/arduino/
